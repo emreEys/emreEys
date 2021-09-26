@@ -8,8 +8,8 @@
 
 ## Connect with me:
 
-[<img height="32" width="32" alt ="eys_dev" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" align = "left"/>][instagram]
-[<img height="32" width="32" alt="Emre Eys" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" align = "left"/>][linkedin]
+[<img height="32" width="32" alt ="eys_dev | Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" align = "left"/>][instagram]
+[<img height="32" width="32" alt="Emre Eys | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" align = "left"/>][linkedin]
 
 <br />
 <br />
