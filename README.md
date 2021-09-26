@@ -8,7 +8,7 @@
 
 ## Connect with me:
 
-<img height="32" width="32" alt ="eys_dev" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" align = "left"/>[instagram]
+[<img height="32" width="32" alt ="eys_dev" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" align = "left"/>][instagram]
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" align = "top"/>[linkedin]
 
 <br />
@@ -35,5 +35,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eysshot" >
 </details>
 
-[instagram]: https://www.instagram.com/eys_dev
-[linkedin]: https://www.linkedin.com/feed
+
