@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Emre. :blush: [emreEys](https://github.com/emreEys)
 
-## Flutter Developer |
+## I'M DEVELOPER, ENGİNERR AND STUDENT |
 
 <font color="pink">Coffee coffee is how I keep up with '< code />' </font>
 
