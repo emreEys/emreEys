@@ -11,7 +11,7 @@
 
 [<img height="32" width="32" alt ="eys_dev | Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" align = "left"/>][instagram]
 [<img height="32" width="32" alt="Emre Eys | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" align = "left"/>][linkedin]
-[<img height="32" width="32" alt="Emre97398526 | Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" align = "left"/>][twitter]
+[<img height="32" width="32" alt="Emre97398526 | Twitter" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" align = "left"/>][twitter]
 
 <br />
 <br />
