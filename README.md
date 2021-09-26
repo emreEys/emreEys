@@ -27,7 +27,6 @@
 
 <br /><br />
 
-![banner picture](https://github.com/eysshot/Estimated-Life-Expectancy-App-Using-Flutter/blob/main/ui.png)
 
 <br />
 
