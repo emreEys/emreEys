@@ -35,4 +35,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eysshot" >
 </details>
 
-
+[instagram]: https://www.instagram.com/eys_dev
+[linkedin]: https://www.linkedin.com/feed
