@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Emre. :blush: [emreEys](https://github.com/emreEys)
 
-## I'M DEVELOPER, ENGİNERR AND STUDENT |
+## I'M DEVELOPER, ENGİNEER AND STUDENT |
 
 <font color="pink">Coffee coffee is how I keep up with '< code />' </font>
 
